@@ -1,0 +1,12 @@
+Cuantos empleados  desea registrar
+3
+Tabla de datos obtenidos
+El emplado:lenin Nacio el: 28/11/2001
+Tiene : 19
+
+El emplado:pepe Nacio el: 14/5/1999
+Tiene : 22
+
+El emplado:joel Nacio el: 15/2/1998
+Tiene : 23
+
