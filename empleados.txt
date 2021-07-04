@@ -1,12 +1,11 @@
 Cuantos empleados  desea registrar
-3
+2
 Tabla de datos obtenidos
-El emplado:lenin Nacio el: 28/11/2001
-Tiene : 19
+Empleado No 1
+El emplado:lenin Nacio el: 2/1/2000
+Tiene : 21 años
 
-El emplado:pepe Nacio el: 14/5/1999
-Tiene : 22
-
-El emplado:joel Nacio el: 15/2/1998
-Tiene : 23
+Empleado No 2
+El emplado:juab Nacio el: 2/4/2002
+Tiene : 19 años
 

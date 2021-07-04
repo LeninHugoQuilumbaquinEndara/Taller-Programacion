@@ -39,8 +39,8 @@ public class testEmpleados {
                         + "/" + emp[i].getAnio());
                 salida.println("El emplado:" + emp[i].getNombre() + " Nacio el: " + emp[i].getDia() + "/" + emp[i].getMes()
                         + "/" + emp[i].getAnio());
-                System.out.println("Tiene : " + edad);
-                salida.println("Tiene : " + edad);
+                System.out.println("Tiene : " + edad+" años");
+                salida.println("Tiene : " + edad+" años");
                 System.out.println("");
                 salida.println();
                 salida.flush();

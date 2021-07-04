@@ -45,5 +45,8 @@ public class empleados {
     public void setAnio(int anio) {
         this.anio = anio;
     }
-    
+        @Override
+    public String toString(){
+       return this.nombre+" Nacio en la fecha:"+this.dia+"/"+this.mes+"/"+this.anio; 
+    }
 }
